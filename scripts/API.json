@@ -1,0 +1,5 @@
+{
+    "master": "http://fromkk.me",
+    "develop": "http://www.google.com/",
+    "feature/branch/.*": "http://yahoo.co.jp"
+}
